@@ -92,11 +92,14 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
       />
     </td>
     <td>
-      <img 
-        alt="Linguagens Mais Usadas" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonseca-Dev&layout=compact&theme=tokyonight&langs_count=10" 
-      />
+      <div align="center">
+        <b>🧠 Linguagens Mais Usadas</b><br/>
+        <img 
+          alt="Linguagens Mais Usadas" 
+          height="200" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonseca-Dev&layout=compact&theme=tokyonight&langs_count=10" 
+        />
+      </div>
     </td>
   </tr>
 </table>
