@@ -32,7 +32,8 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+/> **HTML**
+
 <img 
     align="left" 
     alt="CSS" 
@@ -40,7 +41,8 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+/> **CSS**
+
 <img 
     align="left" 
     alt="Java" 
@@ -48,7 +50,8 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
     width="30px" 
     style="padding-right: 10px;"          
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
+/> **Java**
+
 <img 
     align="left" 
     alt="MySQL"
@@ -56,7 +59,8 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
     width="30px" 
     style="padding-right: 10px;"           
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
+/> **MySQL**
+
 <img 
     align="left" 
     alt="C++"
@@ -64,7 +68,8 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
     width="30px" 
     style="padding-right: 10px;"           
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
+/> **C++**
+
 <img 
     align="left" 
     alt="PHP" 
@@ -72,7 +77,8 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+/> **PHP**
+
 <img 
     align="left" 
     alt="Python" 
@@ -80,7 +86,8 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+/> **Python**
+
 <img 
     align="left" 
     alt="Flutter" 
@@ -88,7 +95,7 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
+/> **Flutter**
 
 <br/>
 <br/>
