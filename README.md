@@ -73,7 +73,7 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40px" /><br/>NetBeans
     </td>
     <td align="center">
-      <img src="[https://upload.wikimedia.org/wikipedia/commons/b/bd/Dev-C%2B%2B_Logo.png](https://store-images.s-microsoft.com/image/apps.8200.14525614036320964.388ccdd1-65a9-4bfc-81ce-c614493bcc79.5dfc4719-b603-45a1-a73e-bf55d9d25077?h=307)" width="40px" /><br/>Dev C++
+      <img src="[[https://upload.wikimedia.org/wikipedia/commons/b/bd/Dev-C%2B%2B_Logo.png](https://store-images.s-microsoft.com/image/apps.8200.14525614036320964.388ccdd1-65a9-4bfc-81ce-c614493bcc79.5dfc4719-b603-45a1-a73e-bf55d9d25077?h=307)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6796fe47-907a-4f6f-8075-8722ea4708d1/dapvn1w-76f47a94-188c-4a3e-b3bb-fc06c0d93566.png/v1/fill/w_894,h_894,q_70,strp/alternative_dev_c___icon__256x256__by_thepi7on_dapvn1w-pre.jpg)" width="40px" /><br/>Dev C++
     </td>
   </tr>
 </table>
