@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. Concluí o ensino médio em Jaguariúna/SP no ano de 2014 e, em 2022, finalizei o curso Técnico em Desenvolvimento de Sistemas na Etec Conselheiro Antonio Prado. Atualmente, estou cursando Ciência da Computação na UNIEDUK. Sempre fui apaixonado por tecnologia, o que me motivou a seguir carreira na área de TI. Tenho grande interesse em desenvolvimento de software, inovação tecnológica e soluções que impactem positivamente a vida das pessoas. Estou em busca de oportunidades para aplicar meus conhecimentos, crescer profissionalmente e contribuir com projetos desafiadores..
+Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. Concluí o ensino médio em Jaguariúna/SP no ano de 2014 e, em 2022, finalizei o curso Técnico em Desenvolvimento de Sistemas na Etec Conselheiro Antonio Prado. Atualmente, estou cursando Ciência da Computação na UNIEDUK. Sempre fui apaixonado por tecnologia, o que me motivou a seguir carreira na área de TI. Tenho grande interesse em desenvolvimento de software, inovação tecnológica e soluções que impactem positivamente a vida das pessoas. Estou em busca de oportunidades para aplicar meus conhecimentos, crescer profissionalmente e contribuir com projetos desafiadores.
 
 <p align="left">
     <a href="https://github.com/Fonseca-Dev?tab=stars">
@@ -78,7 +78,7 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
   </tr>
 </table>
 
-
+---
 
 ### 📊 Estatísticas
 
@@ -89,6 +89,13 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
         alt="GitHub Stats" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=Fonseca-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonseca-Dev&layout=compact&theme=tokyonight&locale=pt-br" 
       />
     </td>
   </tr>
