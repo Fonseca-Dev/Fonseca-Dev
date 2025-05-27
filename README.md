@@ -63,7 +63,7 @@ Sou Kauê Rocha da Fonseca, 27 anos, natural de Campinas/SP. Formado como Técni
       <img 
         alt="Principais Linguagens" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonseca-Dev&layout=compact&theme=tokyonight&langs_count=9&title=Principais%20Linguagens" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonseca-Dev&layout=compact&theme=tokyonight&langs_count=10&title=Principais%20Linguagens" 
       />
     </td>
   </tr>
