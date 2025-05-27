@@ -91,12 +91,5 @@ Meu nome é Kauê Rocha da Fonseca, tenho 27 anos e sou natural de Campinas/SP. 
         src="https://github-readme-stats.vercel.app/api?username=Fonseca-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
       />
     </td>
-    <td>
-      <img 
-        alt="GitHub Top Langs" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonseca-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
   </tr>
 </table>
